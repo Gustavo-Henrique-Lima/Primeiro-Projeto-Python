@@ -1,0 +1,4 @@
+Feijao 2,fardos 150 19/08/2021
+Miojo 6,pacotes 30 19/08/2021
+Agua 2,fardos 15 19/08/2021
+Detergente 6,pacotes 60 07/09/2021
